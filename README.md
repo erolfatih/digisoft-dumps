@@ -65,8 +65,9 @@
   </div>
 
   <footer>
-    © 2025 Digisoft | Eskişehir'de üretildi 🚗
-  </footer>
+  © 2025 Digisoft | İstanbul’da üretildi 🚗
+</footer>
+
 
 </body>
 </html>
